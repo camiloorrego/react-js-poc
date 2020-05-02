@@ -1,0 +1,11 @@
+.Home__Actions {
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.Home__Actions--load,
+.Home__Actions--clear {
+    margin: 0 5px !important;
+}
